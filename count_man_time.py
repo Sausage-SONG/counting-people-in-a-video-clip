@@ -57,8 +57,6 @@ class Person:
 					holes.append(hole)
 				else:
 					continue
-		
-		print(self.locations)
 		return len(holes)+1					# NEED IMPROVEMENT
 			
 				
