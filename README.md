@@ -1,5 +1,7 @@
-# counting-people-in-a-video-clip
-This is supposed to be a component of an HKUST UROP project in 2019 Summer which focuses on indoor location.  
-It counts the number of people passing through an area in a video. (surveillance video in this project)
+# tracking-people-in-surveillance-videos
+This is the HKUST UROP project: **AI meets Big Data** (2019 Summer) carried out by [SONG Sizhe](https://github.com/Sausage-SONG) and supervised by Prof. Shueng-Han Gary Chan. This project focuses on tracking people in the surveillance videos.
 
-**Warning: Carefully choose your directory, or you may accidentally delete your own files. More details will be added in future, always read the code if you are not sure.**
+## Usage
+(working on it)
+
+**Warning: Carefully choose your directory, or you may accidentally DELETE your own files. Please always read the code if you are not sure.**
