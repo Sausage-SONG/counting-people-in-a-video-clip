@@ -16,8 +16,6 @@ A more detailed instruction can be found on [Yolo official page](https://pjreddi
 
 After Yolo is installed, copy the scripts in this repo including `process_video.py`, `coordinate_transform.py`, `id_process.py` to Yolo python scripts' folder `<your directory>/darknet/python`.
 
-## I'm still working on this md.
-
 ## Report
 You can find the report of this project [here](https://github.com/Sausage-SONG/tracking-people-in-surveillance-videos/blob/master/UROP1100X_SONG%20Sizhe.pdf).  
 
